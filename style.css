@@ -1,0 +1,24 @@
+body{
+
+    background-image: url("../../media/examples/lizard.png");
+    height: 1000px;
+    background attachment: fixed;     
+}
+
+.div1 {
+    width: 200px;
+    height: 200px;
+    border: 1rem solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+    background-color: rgb(148, 127, 168);
+}
+
+.div2 {
+    width: 300px;
+    height: 300px;
+    border: 2px solid red;
+    background-image: url();
+    background-size: cover;
+    background-position: top;
+    background-blend-mode: overlay;
+}
